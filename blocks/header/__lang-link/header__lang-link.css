@@ -12,7 +12,6 @@
 .header__lang-link:hover {
   transition: 0.5s;
   opacity: 0.8;
-  text-decoration: underline;
 }
 
 @media screen and (max-width: 321px) {

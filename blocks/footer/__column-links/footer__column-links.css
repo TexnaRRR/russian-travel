@@ -1,5 +1,4 @@
 .footer__column-links {
-  max-width: 186px;
   margin: 0;
   padding: 0;
   font-weight: 400;
@@ -12,7 +11,6 @@
 
 @media screen and (max-width: 767px) {
   .footer__column-links {
-    display: flex;
     flex-direction: column;
   }
 }
